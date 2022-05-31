@@ -1,0 +1,10 @@
+{
+  "name": "odoo-rcp-async",
+  "version": "0.1.0",
+  "description": "library for Odoo using JSON-RPC",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandroabele/odoo-rcp-async"
+  }
+}
