@@ -5,6 +5,18 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alejandroabele/odoo-rcp-async"
-  }
+    "url": "git+https://github.com/alejandroabele/odoo-rcp-async.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alejandroabele/odoo-rcp-async/issues"
+  },
+  "homepage": "https://github.com/alejandroabele/odoo-rcp-async#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alejandroabele",
+  "license": "ISC"
 }
